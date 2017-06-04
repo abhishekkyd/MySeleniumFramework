@@ -1,0 +1,6 @@
+What is Selenium WebDriver?
+What is the temperature today?
+Who is the prime minister of India?
+What is Hello Selenium?
+What is date today?
+What is IST time now?
